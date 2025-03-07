@@ -12,6 +12,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .projects {
@@ -24,3 +25,4 @@
   gap: 15px;
   width: 100%;
 }
+

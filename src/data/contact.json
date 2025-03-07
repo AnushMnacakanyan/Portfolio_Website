@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "img": "contact/emailIcon.png",
+    "alt": "Email icon",
+    "link": "mailto:myemail@email.com",
+    "text": "myemail@email.com"
+  },
+  {
+    "id": 2,
+    "img": "contact/linkedinIcon.png",
+    "alt": "LinkedIn icon",
+    "link": "https://www.linkedin.com/myname",
+    "text": "linkedin.com/myname"
+  },
+  {
+    "id": 3,
+    "img": "contact/githubIcon.png",
+    "alt": "Github icon",
+    "link": "https://www.github.com/myname",
+    "text": "github.com/myname"
+  }
+]

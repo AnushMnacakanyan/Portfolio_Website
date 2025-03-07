@@ -43,6 +43,11 @@
     align-items: flex-start;
   }
 
+  .icon {
+    display: flex;
+    column-gap: 5px;
+  }
+
   .menuBtn {
     display: block;
     cursor: pointer;
